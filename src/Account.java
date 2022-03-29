@@ -1,3 +1,5 @@
+package src;
+
 public abstract class Account implements IAccount {
 
     private static final int DEFAULT_AGENCY = 1;

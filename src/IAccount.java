@@ -1,3 +1,5 @@
+package src;
+
 public interface IAccount {
 
     void withdraw(double value);
